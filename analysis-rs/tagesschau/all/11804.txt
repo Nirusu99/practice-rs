@@ -1,0 +1,7 @@
+Subject: Ratspräsidentschaft: Mit KI durch den EU-Sprachendschungel
+From: "tagesschau" <>
+Date: Tue,  6 Oct 2020 04:27:40 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/uebersetzungen-eu-101.html
+
+24 Sprachen muss die deutsche Ratspräsidentschaft seit dem 1. Juli managen. In Saarbrücken haben Forscher dafür ein neuronales Übersetzungssystem entwickelt. Ohne menschliche Hilfe geht es aber trotzdem nicht. Von Anika Lenthe.

@@ -1,0 +1,7 @@
+Subject: RKI meldet erstmals mehr als 20.000 Neuinfektionen
+From: "tagesschau" <>
+Date: Fri,  6 Nov 2020 10:03:02 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/rki-coronainfektionen-101.html
+
+Deutlich früher als erwartet hat Deutschland die Schwelle der 20.000 Neuinfektionen überschritten: Das Robert Koch-Institut meldete 21.506 neue Ansteckungsfälle. Der Inzidenzwert liegt in fast allen Kreisen über dem kritischen Wert von 50.

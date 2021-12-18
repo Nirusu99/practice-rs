@@ -1,0 +1,7 @@
+Subject: RKI: Hunderttausende nutzen "Datenspende"-App
+From: "tagesschau" <>
+Date: Wed,  6 May 2020 12:23:03 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/datenspende-app-rki-corona-101.html
+
+Seit Wochen wird über Apps diskutiert, die bei der Coronavirus-Eindämmung helfen sollen. Das RKI testet bereits eine App, die aber lediglich Daten aus Fitness-Trackern nutzt. Inzwischen machen gut 509.000 Nutzer bei dem Projekt mit.

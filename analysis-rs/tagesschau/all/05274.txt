@@ -1,0 +1,7 @@
+Subject: Corona: 4122 Neuinfektionen in Deutschland
+From: "tagesschau" <>
+Date: Tue, 13 Oct 2020 07:15:28 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/corona-deutschland-dienstag-101.html
+
+Das RKI meldet erneut mehr als 4000 Neuinfektionen innerhalb eines Tages. Am Dienstag vor einer Woche waren es noch deutlich weniger. Die Zahl der Todesfälle stieg um 13. Der R-Wert lag bei 1,29.

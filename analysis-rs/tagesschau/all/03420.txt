@@ -1,0 +1,7 @@
+Subject: "Privacy Shield": EuGH kippt Datendeal zwischen USA und EU
+From: "tagesschau" <>
+Date: Thu, 16 Jul 2020 10:37:47 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/eugh-datenaustausch-usa-101.html
+
+Der Europäische Gerichtshof hat den Datendeal "Privacy Shield" für ungültig erklärt. Nutzerdaten von EU-Bürgern können aber weiterhin in die USA und andere Staaten übertragen werden, entschieden die Richter.

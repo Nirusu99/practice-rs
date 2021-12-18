@@ -1,0 +1,7 @@
+Subject: Jetzt im Livestream: Lagebericht des BSI
+From: "tagesschau" <>
+Date: Tue, 20 Oct 2020 11:00:16 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/multimedia/livestreams/livestream-zwei100.html
+
+Wie sicher sind IT-Systeme in Deutschland - und welche Rolle soll Huawei beim Aufbau des 5G-Netzes spielen? Verfolgen Sie hier die Vorstellung des Lageberichts des Bundesamtes für Sicherheit in der Informationstechnik (BSI).

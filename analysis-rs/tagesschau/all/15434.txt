@@ -1,0 +1,7 @@
+Subject: Google veröffentlicht Bewegungsdaten aus 131 Ländern
+From: "tagesschau" <>
+Date: Fri,  3 Apr 2020 13:33:54 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/google-corona-101.html
+
+Wie ernst nehmen die Menschen Ausgangsbeschränkungen und andere Auflagen wegen der Corona-Pandemie? Um das nachzuvollziehen, hat Google Standortdaten aus 131 Ländern veröffentlicht - anonymisiert.

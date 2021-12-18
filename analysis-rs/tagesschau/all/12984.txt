@@ -1,0 +1,7 @@
+Subject: RKI meldet 1122 Corona-Neuinfektionen in Deutschland
+From: "tagesschau" <>
+Date: Sat,  8 Aug 2020 08:25:47 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/corona-infektionen-rki-103.html
+
+Den dritten Tag in Folge haben die Gesundheitsämter laut Angaben des Robert Koch-Instituts mehr als 1000 neue Corona-Infektionen in Deutschland innerhalb von 24 Stunden registriert. Vergleichbar hoch waren die Zahlen zuletzt im Mai.

@@ -1,0 +1,7 @@
+Subject: Corona-Krise: WhatsApp schränkt Weiterleitung ein
+From: "tagesschau" <>
+Date: Tue,  7 Apr 2020 09:41:30 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/faktenfinder/whatsapp-falschmeldungen-corona-101.html
+
+Um die Verbreitung von Falschmeldungen einzudämmen, begrenzt WhatsApp die Weiterleitung von bereits oft geteilten Nachrichten. Damit reagiert der Mutterkonzern Facebook auf das massenhafte Aufkommen von Gerüchten zu Corona.

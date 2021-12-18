@@ -1,0 +1,7 @@
+Subject: Angriff auf Bundestag: Die Sache mit dem "Ü"
+From: "tagesschau" <>
+Date: Fri,  8 May 2020 17:43:41 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/ndr-wdr/hacker-bundestag-113.html
+
+Im Frühjahr 2015 griffen Hacker das IT-System des Bundestages an. Bei den Ermittlungen wurde klar: Die Angreifer machten Fehler - und scheiterten wohl an einem Buchstaben. Von H. Tanriverdi und F. Flade.

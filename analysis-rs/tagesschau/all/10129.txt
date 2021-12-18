@@ -1,0 +1,7 @@
+Subject: RKI meldet 1045 Corona-Neuinfektionen in Deutschland
+From: "tagesschau" <>
+Date: Thu,  6 Aug 2020 07:04:06 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/corona-infektionen-rki-101.html
+
+In Deutschland haben die Gesundheitsämter laut Angaben des Robert Koch-Instituts mehr als 1000 neue Corona-Infektionen innerhalb eines Tages registriert - zum ersten Mal seit drei Monaten.

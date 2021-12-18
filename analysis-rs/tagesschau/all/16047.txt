@@ -1,0 +1,7 @@
+Subject: RKI: 11.176 Corona-Neuinfektionen in Deutschland
+From: "tagesschau" <>
+Date: Sun, 25 Oct 2020 06:47:38 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/rki-neuinfektionen-corona-109.html
+
+Sonntags liegt die Zahl der Neuinfektionen meist etwas niedriger als unter der Woche - trotzdem wurden mehr als 11.000 neue Corona-Fälle registriert. Auch der R-Wert ist gestiegen - zehn Infizierte stecken durchschnittlich 14 weitere Menschen an.

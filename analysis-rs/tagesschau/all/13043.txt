@@ -1,0 +1,7 @@
+Subject: Cyber-Angriff: Hacker attackierten Uniklinik Düsseldorf
+From: "tagesschau" <>
+Date: Thu, 17 Sep 2020 13:27:29 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www1.wdr.de/nachrichten/rheinland/uniklinik-duesseldorf-erpressung-hacker-100.html
+
+Vor einer Woche wurde das IT-System der Uniklinik Düsseldorf lahmgelegt. Nach Erkenntnissen der NRW-Landesregierung sollen Hacker für den Ausfall verantwortlich sein. Die Klinik kann wegen des Angriffs bis heute keine neuen Patienten aufnehmen.

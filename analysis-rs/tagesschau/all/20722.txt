@@ -1,0 +1,7 @@
+Subject: US-Behörden: Hackerangriffe auf US-Regierungsziele
+From: "tagesschau" <>
+Date: Fri, 23 Oct 2020 09:16:02 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/ausland/uswahl2020/uswahl2020-einmischung-iran-russland-103.html
+
+Wenige Wochen vor der US-Wahl haben russische Hacker Dutzende Netzwerke von Verwaltungen amerikanischer Kommunen und Staaten ins Visier genommen. Laut Behördenvertretern wurden Daten aus mindestens zwei Servern gestohlen.

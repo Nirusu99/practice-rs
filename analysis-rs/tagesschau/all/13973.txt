@@ -1,0 +1,7 @@
+Subject: Corona-Krise: Reproduktionszahl übersteigt kritischen Wert
+From: "tagesschau" <>
+Date: Sun, 10 May 2020 11:30:28 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/rki-corona-reproduktionsrate-101.html
+
+Das RKI mahnt in der Corona-Krise zur Vorsicht: Die Forscher schätzen die Ansteckungsrate derzeit auf den Wert von 1,1. Bisher sind in Deutschland laut RKI über 169.000 Infektionen nachgewiesen worden.

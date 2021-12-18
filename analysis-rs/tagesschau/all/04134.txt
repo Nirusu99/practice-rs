@@ -1,0 +1,7 @@
+Subject: "Google Trends": Daten nicht aussagekräftig
+From: "tagesschau" <>
+Date: Fri,  5 Jun 2020 06:13:09 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/ndr/google-trends-101.html
+
+Google zeigt Trends zum Suchverhalten seiner Nutzer: Forscher, Journalisten und Ermittler vertrauen darauf. Eine Analyse zeigt aber, dass die Daten widersprüchlich sind und kaum ernsthafte Rückschlüsse zulassen.

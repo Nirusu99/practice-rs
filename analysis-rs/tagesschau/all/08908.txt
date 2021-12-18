@@ -1,0 +1,7 @@
+Subject: Zoom schließt Sicherheitslücken
+From: "tagesschau" <>
+Date: Thu,  2 Apr 2020 11:22:11 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/zoom-105.html
+
+Von der Corona-Krise hat die Konferenz-App Zoom massiv profitiert. Doch die Kritik am unzureichenden Datenschutz war so heftig, dass die Firma nun nachgebessert hat.

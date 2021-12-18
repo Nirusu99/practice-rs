@@ -1,0 +1,7 @@
+Subject: Live-Ticker zur Handball-EM: Deutschland gegen Tschechien
+From: "tagesschau" <>
+Date: Wed, 22 Jan 2020 20:31:02 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www1.sportschau.de/sportschau_specials/layout/php/sportticker/index.phtml?ticker=1710&event=6062&event_art=17
+
+Die deutschen Handballer müssen am letzten Hauptrunden-Spieltag der EM gegen Tschechien ran. Gibt es den erwarteten Sieg? Jetzt live.

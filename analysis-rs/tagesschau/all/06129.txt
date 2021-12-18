@@ -1,0 +1,7 @@
+Subject: Hackerangrif auf Bundestagsfahrdienst: Noch mal Glück gehabt
+From: "tagesschau" <>
+Date: Wed, 19 Aug 2020 18:00:26 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/investigativ/wdr/hackerangriff-bundeswehr-fuhrpark-103.html
+
+Der Hackerangriff auf den Fahrdienstleister des Bundestages scheint weniger schwerwiegend als befürchtet zu sein. Dennoch gibt es Kritik an den Schutzmechanismen - und der Speicherpraxis des Dienstes. Von Florian Flade.

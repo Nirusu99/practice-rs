@@ -1,0 +1,7 @@
+Subject: Daimler und Waymo: Kooperation bei autonomem Fahren
+From: "tagesschau" <>
+Date: Tue, 27 Oct 2020 18:27:32 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/wirtschaft/daimler-waymo-autonomes-fahren-101.html
+
+Die Forschung an Zukunftstechnologien bringt eine neue Allianz hervor: Daimler und die Google-Tochter Waymo arbeiten auf dem Gebiet des autonomen Fahrens zusammen. Entwicklungsziel: ein selbstfahrender Gigaliner.

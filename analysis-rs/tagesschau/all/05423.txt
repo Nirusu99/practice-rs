@@ -1,0 +1,7 @@
+Subject: Ansteckungsrate wieder bei 0,9
+From: "tagesschau" <>
+Date: Tue, 28 Apr 2020 16:59:17 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/rki-fallzahlen-ansteckungsrate-105.html
+
+Gestern hatte das RKI einen Anstieg der Corona-Asteckungsrate auf 1 gemeldet. Jetzt liegt der R-Wert wieder bei 0,9. Entwarnung gibt es trotzdem nicht - allerdings Diskussionen über die Statistik.

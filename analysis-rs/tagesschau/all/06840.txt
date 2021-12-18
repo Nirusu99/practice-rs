@@ -1,0 +1,7 @@
+Subject: Mit Apps gegen die Pandemie?
+From: "tagesschau" <>
+Date: Sun, 22 Mar 2020 18:59:23 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/coronavirus-forschung-bab-101.html
+
+Forscher und Softwareentwickler suchen nach digitalen Mitteln, um die Corona-Pandemie einzudämmen. Bewegungsprofile von Handys könnten helfen, Infektionen nachzuvollziehen. Datenschützer sind skeptisch. Von Kristin Becker.

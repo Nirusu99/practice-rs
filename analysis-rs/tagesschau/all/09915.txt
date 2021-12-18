@@ -1,0 +1,7 @@
+Subject: Coronavirus-App: Mit Fitnessdaten das Virus verstehen
+From: "tagesschau" <>
+Date: Tue,  7 Apr 2020 16:55:43 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/app-rki-101.html
+
+Seit Wochen wird über eine App diskutiert, die bei der Eindämmung des Coronavirus helfen soll. Nun hat das Robert Koch-Institut eine Anwendung präsentiert, die vor allem Gesundheitsdaten nutzt. Doch eine Tracking-App ist damit nicht vom Tisch.

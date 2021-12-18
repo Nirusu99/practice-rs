@@ -1,0 +1,7 @@
+Subject: Coronakrise in Deutschland: R-Wert sinkt wieder leicht
+From: "tagesschau" <>
+Date: Mon, 11 May 2020 21:03:01 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/rki-corona-reproduktionswert-101.html
+
+RKI-Forscher schätzen den Reproduktionswert auf 1,07. Damit die Pandemie abflaut, müsste die Zahl aber langfristig unter der kritischen Marke von 1 liegen. Mehr als 145.000 Menschen in Deutschland gelten als genesen.

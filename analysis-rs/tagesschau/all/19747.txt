@@ -1,0 +1,7 @@
+Subject: BSI-Empfehlung: Abschied vom regelmäßigen Passwort-Wechsel
+From: "tagesschau" <>
+Date: Tue,  4 Feb 2020 16:12:40 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/bsi-passwort-wechsel-empfehlung-101.html
+
+Kennwörter sollen lang sein, Sonderzeichen haben und regelmäßig geändert werden. Das war bisher das Mantra für viele Nutzer. Das BSI rückt nun von dieser Regel ab. Ein überfälliger Schritt, bemängeln Experten.

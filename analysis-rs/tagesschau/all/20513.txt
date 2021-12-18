@@ -1,0 +1,7 @@
+Subject: Corona-Warn-App: Kritik an Spahn - Update veröffentlicht
+From: "tagesschau" <>
+Date: Sat, 25 Jul 2020 19:45:43 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/corona-warn-app-117.html
+
+Wegen der Probleme mit der Corona-Warn-App stehen Gesundheitsminister Spahn und die Entwickler in der Kritik. Zurecht? Inzwischen wurde ein Update veröffentlicht, das den Bug beim iPhone umgehen soll. Von Dominik Lauck.

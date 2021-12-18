@@ -1,0 +1,7 @@
+Subject: RKI warnt vor
+From: "tagesschau" <>
+Date: Tue,  7 Apr 2020 11:35:45 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/rki-pressekonferenz-101.html
+
+Trotz weniger Neuinfektionen - das RKI rechnet mit mehr Todesfällen, besonders unter älteren Menschen. Um die Verbreitung von Krankheitssymptomen besser verfolgen zu können, hat das Institut eine App entwickelt.

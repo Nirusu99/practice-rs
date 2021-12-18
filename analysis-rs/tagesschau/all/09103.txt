@@ -1,0 +1,7 @@
+Subject: RKI meldet 15.352 Neuinfektionen - Zweifel an Bettenzahl
+From: "tagesschau" <>
+Date: Tue,  3 Nov 2020 09:11:34 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/rki-corona-intensivbetten-101.html
+
+Mit den steigenden Corona-Fällen wächst auch die Sorge vor einem Mangel an Intensivbetten. 8000 Betten sind derzeit noch als verfügbar erfasst - doch daran gibt es Zweifel. Das RKI meldet 15.352 Neuinfektionen.

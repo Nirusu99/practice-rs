@@ -1,0 +1,7 @@
+Subject: Wie Cyberkriminelle deutsche Konzerne erpressen
+From: "tagesschau" <>
+Date: Wed, 11 Nov 2020 05:01:27 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/wirtschaft/ransomware-101.html
+
+Alle Rechner werden verschlüsselt. Dann beginnt die Erpressung. Ransomware gilt als große Bedrohung für Firmen. Ein Chat-Verlauf zeigt, wie sie mit den Hackern verhandeln. Von H. Tanriverdi, R. Weber und C. Sachsinger.

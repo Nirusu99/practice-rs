@@ -1,0 +1,7 @@
+Subject: EuGH: EU-Beschluss zu Datenaustausch mit USA ungültig
+From: "tagesschau" <>
+Date: Thu, 16 Jul 2020 10:05:12 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/eilmeldung/eilmeldung-5047.html
+
+Der Europäische Gerichtshof hat die EU-US-Datenschutzvereinbarung "Privacy Shield" gekippt. Allerdings können Nutzerdaten von EU-Bürgern weiterhin auf Basis sogenannter Standardvertragsklauseln in die USA und andere Staaten übertragen werden. So haben die Luxemburger Richter entschieden.

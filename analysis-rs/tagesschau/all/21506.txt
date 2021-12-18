@@ -1,0 +1,7 @@
+Subject: Bank haftet bei kontaktlosem Bezahlen ohne PIN
+From: "tagesschau" <>
+Date: Wed, 11 Nov 2020 13:47:20 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/wirtschaft/eugh-haftung-kontaktlose-kartenzahlung-101.html
+
+Wer mit einer Bankkarte kontaktlos zahlt, braucht dafür bei kleinen Beträgen keine PIN. Wer haftet aber, wenn Diebe so mit einer gestohlenen Karte einkaufen? Die Bank - entschied nun der EuGH. Von Klaus Hempel.

@@ -1,0 +1,7 @@
+Subject: Cyberangriff auf RKI-Webseite
+From: "tagesschau" <>
+Date: Wed, 28 Oct 2020 15:14:06 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/rki-cyberangriff-101.html
+
+Erst vor wenigen Tagen hatten Unbekannte Brandsätze auf das Robert Koch-Institut geworfen. Nun wurde bekannt, dass es in der vergangenen Woche eine Cyberattacke auf die Webseite gab. Die Warn-App ist nicht betroffen.

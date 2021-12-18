@@ -1,0 +1,7 @@
+Subject: Berlin setzt auf Ampel-Warnsystem in Corona-Pandemie
+From: "tagesschau" <>
+Date: Tue, 12 May 2020 16:22:28 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.rbb24.de/politik/thema/2020/coronavirus/beitraege_neu/2020/05/berlin-senat-beraet-ueber-obergrenze-covid19-infektionen.html
+
+Mit einer Ampel als Warnsystem will Berlin Corona-Infektionen in Schach halten. Je nach R-Wert, Belegung der Intensivbetten und Zahl der Neuinfektionen pro Einwohner wird auf Gelb oder Rot geschaltet. Das Land setzt damit auf einen eigenen Weg.

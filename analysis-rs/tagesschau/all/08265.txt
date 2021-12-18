@@ -1,0 +1,7 @@
+Subject: Microsoft schließt Sicherheitslücke nach NSA-Hinweis
+From: "tagesschau" <>
+Date: Wed, 15 Jan 2020 09:11:55 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/microsoft-sicherheitsluecke-nsa-101.html
+
+Die NSA hat eine Sicherheitslücke in Microsofts Windows-Betriebssystem entdeckt - und erstmals umgehend dem betroffenen Konzern gemeldet. Microsoft konnte die Lücke schließen.

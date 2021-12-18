@@ -1,0 +1,7 @@
+Subject: Kennzahl für Epidemien: Was ist der R-Wert?
+From: "tagesschau" <>
+Date: Tue, 12 May 2020 17:00:14 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/faktenfinder/r-wert-101.html
+
+Wohl kaum ein wissenschaftlicher Parameter hat die politische Diskussion zur Corona-Krise so sehr bestimmt wie der R-Wert. Doch was wird damit gemessen - und was sagt er wirklich aus? Von Wulf Rohwedder.

@@ -1,0 +1,7 @@
+Subject: Corona-Warn-App funktioniert auf iPhones fehlerhaft
+From: "tagesschau" <>
+Date: Fri, 24 Jul 2020 22:09:06 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/corona-warn-app-113.html
+
+Die Corona-Warn-App funktioniert nach Recherchen von tagesschau.de auf vielen iPhones nur fehlerhaft. Besitzer werden oft zu spät gewarnt. Die Entwickler räumten das Problem ein - und sehen den Fehler bei Apple. Von Dominik Lauck.

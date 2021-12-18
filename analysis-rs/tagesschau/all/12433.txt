@@ -1,0 +1,7 @@
+Subject: IT-Sicherheit: Daten von Zehntausenden Webseiten zugänglich
+From: "tagesschau" <>
+Date: Wed,  1 Jul 2020 16:37:24 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/ndr/it-sicherheit-quellcodes-101.html
+
+Wegen falscher Einstellungen erlauben zahlreiche deutsche Webseiten den Zugriff auf Teile des Codes, die nicht für die Öffentlichkeit bestimmt sind. Das könnten Angreifer ausnutzen. Auch große Konzerne sind betroffen. Von Jan Lukas Strozyk.

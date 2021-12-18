@@ -1,0 +1,7 @@
+Subject: Corona-Zahlen des RKI: Täglicher R-Wert stimmt oft nicht
+From: "tagesschau" <>
+Date: Mon,  9 Nov 2020 20:34:18 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/faktenfinder/r-wert-rki-101.html
+
+Der R-Wert gilt im Kampf gegen die Pandemie als entscheidend. Jetzt ist die Zahl der Corona-Neuinfektionen auf Rekordniveau - laut RKI lag die Kennzahl dennoch oft unter 1. Wie kann das sein? Von Dominik Lauck.

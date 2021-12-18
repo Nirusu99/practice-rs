@@ -1,0 +1,7 @@
+Subject: Daten von Rheinmetall gehackt - Interne Unterlagen im Netz
+From: "tagesschau" <>
+Date: Tue, 28 Apr 2020 18:00:28 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/ndr/rheinmetall-datenleck-101.html
+
+Der Rüstungskonzern Rheinmetall ist nach NDR-Recherchen von einem Datenleck betroffen: Mehr als 1000 interne Unterlagen kursieren im Netz, auch zu Panzerfahrzeugen. Neben dem Image-Schaden droht dem Konzern ein Bußgeld.

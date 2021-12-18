@@ -1,0 +1,7 @@
+Subject: Arbeitslosenzahl im Oktober gesunken
+From: "tagesschau" <>
+Date: Thu, 29 Oct 2020 10:18:49 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/wirtschaft/arbeitsmarkt-zahlen-103.html
+
+Trotz Corona-Krise zeigt sich der Arbeitsmarkt recht stabil: Im Oktober fiel die Zahl der Arbeitslosen im Vergleich zum Vormonat um 87.000. Laut Bundesagentur für Arbeit zeigen sich aber deutliche Spuren der ersten Pandemie-Welle.

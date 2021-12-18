@@ -1,0 +1,7 @@
+Subject: Dow-Jones-Index mit größtem Tagesgewinn seit 87 Jahren
+From: "tagesschau" <>
+Date: Wed, 25 Mar 2020 06:46:55 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/wirtschaft/boerse/dowjones-rekord-usa-101.html
+
+Einen solchen Gewinn hat es seit 1933 nicht mehr gegeben: Angetrieben durch die Hoffnung auf das nun beschlossene billionenschwere US-Konjunkturpaket legte der Dow-Jones-Index um mehr als 2000 Punkte zu.

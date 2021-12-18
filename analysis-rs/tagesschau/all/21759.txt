@@ -1,0 +1,7 @@
+Subject: Bitcoin-Masche: Hackerangriff auf Twitter-Konten von Promis
+From: "tagesschau" <>
+Date: Thu, 16 Jul 2020 07:11:36 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/twitter-hack-105.html
+
+Unbekannten ist es gelungen, Werbung für Kryptowährungs-Deals über Twitter-Accounts von Prominenten wie Obama, Biden und Bezos zu verbreiten. Noch nie wurden so viele Accounts auf einmal missbraucht.

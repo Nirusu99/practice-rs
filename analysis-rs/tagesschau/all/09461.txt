@@ -1,0 +1,7 @@
+Subject: Zehntausende Patienten von Datenleck beim DRK betroffen
+From: "tagesschau" <>
+Date: Wed,  5 Feb 2020 17:00:14 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/br-recherche/datenleck-drk-101.html
+
+Daten zu mehr als hunderttausend Einsatzfahrten des DRK in Brandenburg sind offenbar jahrelang leicht zugänglich gewesen, darunter auch sensible Gesundheitsinformationen von Patienten. Dabei gab es eine frühe Warnung.

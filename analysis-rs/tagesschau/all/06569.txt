@@ -1,0 +1,7 @@
+Subject: Handys in der Corona-Krise: Mit Bluetooth und Datenschutz gegen die Pandemie
+From: "tagesschau" <>
+Date: Wed,  1 Apr 2020 11:03:03 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/coronavirus-handydaten-101.html
+
+Die Nutzung von Handydaten zur Eindämmung der Pandemie ist umstritten. Ein europäisches Team von Wissenschaftlern und IT-Experten hat nun eine Technologie entwickelt, die den Datenschutz wahren soll. Von K. Becker und C. Feld. 

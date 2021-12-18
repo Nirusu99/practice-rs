@@ -1,0 +1,7 @@
+Subject: "Ich hoffe, dass sie Leuten hilft, die ich nicht kenne"
+From: "tagesschau" <>
+Date: Fri, 26 Jun 2020 02:35:12 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/corona-app-einsatz-101.html
+
+13 Millionen Downloads der Corona-Warn-App verkündete das Robert-Koch-Institut. Wie viele Nutzer die App aber tatsächlich aktiv nutzen, und wie viele Infizierte sich bereits über die App gemeldet haben, ist nicht klar. Von Kristin Becker.

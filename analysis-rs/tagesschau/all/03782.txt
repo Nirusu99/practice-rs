@@ -1,0 +1,7 @@
+Subject: Verdacht auf illegale Exporte: Spionage-Firma durchsucht
+From: "tagesschau" <>
+Date: Wed, 14 Oct 2020 06:00:02 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/investigativ/ndr/spaehsoftware-finfisher-101.html
+
+Die Staatsanwaltschaft München hat nach Informationen von BR und NDR die Firma FinFisher durchsuchen lassen. Der Hersteller von Überwachungsprogrammen steht im Verdacht, illegal Software exportiert zu haben.

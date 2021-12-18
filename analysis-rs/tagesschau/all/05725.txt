@@ -1,0 +1,7 @@
+Subject: RKI meldet knapp 16.500 Neuinfektionen
+From: "tagesschau" <>
+Date: Wed,  4 Nov 2020 09:27:23 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/rki-corona-neuinfektionen-101.html
+
+Die Zahl der täglichen Corona-Neuinfektionen bleibt in Deutschland auf hohem Niveau. 17.214 weitere Infizierte seit gestern meldet das RKI. Die Ansteckungsrate - der sogenannte R-Wert - sank leicht.

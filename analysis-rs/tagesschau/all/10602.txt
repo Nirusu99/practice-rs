@@ -1,0 +1,7 @@
+Subject: Tracing-App: Was heißt zentralisiert oder dezentral?
+From: "tagesschau" <>
+Date: Sun, 26 Apr 2020 00:00:39 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/coronavirus-app-101.html
+
+In der Debatte, wie eine Tracing-App funktionieren soll, dreht es sich um diese eine Frage. Doch was ist der Unterschied zwischen einer zentralisierten und einer dezentralen Version? Von Kristin Becker und Christian Feld.

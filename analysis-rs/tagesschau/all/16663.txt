@@ -1,0 +1,7 @@
+Subject: RKI: 14.714 Corona-Neuinfektionen in Deutschland
+From: "tagesschau" <>
+Date: Sat, 24 Oct 2020 07:33:22 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/inland/rki-neuinfektionen-corona-103.html
+
+Jeden Tag ein neuer Höchststand: Der jetzige hängt allerdings auch mit einer Panne bei der Datenübertragung zwischen Gesundheitsämtern, Landesbehörden und Robert Koch-Institut zusammen. Inzwischen soll sie behoben sein.

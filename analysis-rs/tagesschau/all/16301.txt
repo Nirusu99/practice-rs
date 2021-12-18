@@ -1,0 +1,7 @@
+Subject: Coronavirus-App: Infizierte nachverfolgen, Datenschutz wahren
+From: "tagesschau" <>
+Date: Wed, 22 Apr 2020 14:16:59 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/swr/tracking-app-101.html
+
+Streitigkeiten zwischen Wissenschaftlern und Regierungen verzögern die Entwicklung einer Corona-App. Nach SWR-Recherchen haben ausgerechnet zwei große Technologiekonzerne den Richtungsstreit möglicherweise schon entschieden.

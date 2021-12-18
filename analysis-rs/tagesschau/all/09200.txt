@@ -1,0 +1,7 @@
+Subject: Internet in der Corona-Krise: YouTube drosselt Qualität
+From: "tagesschau" <>
+Date: Fri, 20 Mar 2020 11:39:15 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/wirtschaft/youtube-corona-netflix-101.html
+
+In der Corona-Krise wächst die Sorge, dass die Streams der Unterhaltungsplattformen die Netze verstopfen könnten. Nach Netflix senkt nun auch YouTube die Datenmengen: Nutzer können Videos vorerst nicht in HD ansehen.

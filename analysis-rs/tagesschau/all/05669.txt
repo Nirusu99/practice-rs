@@ -1,0 +1,7 @@
+Subject: Hacker erbeuten Daten von neun Millionen Easyjet-Kunden
+From: "tagesschau" <>
+Date: Tue, 19 May 2020 15:25:39 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/wirtschaft/easyjet-hackerangriff-101.html
+
+Hacker sind an die Daten von neun Millionen Fluggästen des britischen Billigfliegers Easyjet gelangt, darunter mehr als 2200 Kreditkartendaten. Die Airline könnte eine hohe Geldstrafe treffen.

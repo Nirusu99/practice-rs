@@ -1,0 +1,7 @@
+Subject: Corona-Liveblog: +++ R-Wert sinkt unter 1 +++
+From: "tagesschau" <>
+Date: Tue, 12 May 2020 19:47:43 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/newsticker/liveblog-coronavirus-dienstag-111.html
+
+Laut RKI liegt der R-Wert bei 0,94 statt wie gestern bei 1,07. Der Charité-Virologe Drosten hat Falschinformationen zu Corona scharf kritisiert. In Wuhan soll jeder der elf Millionen Einwohner getestet werden.

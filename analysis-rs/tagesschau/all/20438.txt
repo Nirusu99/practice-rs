@@ -1,0 +1,7 @@
+Subject: Corona-Warn-App steht ab sofort zum Download bereit
+From: "tagesschau" <>
+Date: Tue, 16 Jun 2020 06:56:20 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/corona-warn-app-startet-101.html
+
+Die offizielle deutsche Warn-App für den Kampf gegen das Coronavirus ist nun verfügbar. Sie soll das Nachverfolgen von Infektionen erleichtern. Das Herunterladen ist freiwillig.

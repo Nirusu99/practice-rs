@@ -1,0 +1,7 @@
+Subject: Betrug bei Corona-Hilfen: Schnell, digital - und unsicher
+From: "tagesschau" <>
+Date: Thu, 16 Apr 2020 19:48:12 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/ndr-wdr/corona-soforthilfen-109.html
+
+Internetbetrüger haben offenbar eine Sicherheitslücke im NRW-Antragssystem genutzt, um sich Corona-Soforthilfen zu erschleichen. Experten kritisieren, dass die Behörden auf eine mögliche Sicherheitsüberprüfung verzichtet haben.

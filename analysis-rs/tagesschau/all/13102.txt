@@ -1,0 +1,7 @@
+Subject: Coronavirus: Datenbank vorübergehend nicht öffentlich
+From: "tagesschau" <>
+Date: Wed, 18 Mar 2020 14:06:58 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/ndr-wdr/ndr-wdr-beatmungsgeraete-103.html
+
+Eine Datenbank sollte einen schnellen Überblick ermöglichen, was die Kapazität an Beatmungsplätzen in deutschen Kliniken angeht. Kurzzeitig wurden die Informationen nicht mehr öffentlich zur Verfügung zu stellen. Nun sind die Daten wieder abrufbar. Von J. Strozyk

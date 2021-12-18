@@ -1,0 +1,7 @@
+Subject: Millionen Betroffene: Riesiges Datenleck bei Autovermieter
+From: "tagesschau" <>
+Date: Wed, 22 Jan 2020 14:23:10 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/datenleak-autovermietung-buchbinder-101.html
+
+Persönliche Daten von Millionen Kunden des Autovermieters Buchbinder haben wochenlang ungeschützt im Internet gestanden. Das zeigen Recherchen von "c't" und der "Zeit". Auch Grünen-Chef Habeck und die Polizei sollen betroffen sein.

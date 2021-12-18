@@ -1,0 +1,7 @@
+Subject: Dubiose Werbung: Twitter-Accounts von Prominenten gehackt
+From: "tagesschau" <>
+Date: Thu, 16 Jul 2020 04:35:53 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/twitter-hack-101.html
+
+Obama, Biden, Musk und Bezos versprachen plötzlich auf Twitter, ihnen zugeschickte Bitcoins doppelt zurückzuzahlen. Noch nie wurden so viele Prominenten-Accounts auf einmal missbraucht. Das wirft Fragen zur Sicherheit von Twitter auf.

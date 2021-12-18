@@ -1,0 +1,7 @@
+Subject: tagesschau-App 3.0 mit neuem Story-Format
+From: "tagesschau" <>
+Date: Sun, 19 Apr 2020 21:26:36 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/neue-tagesschau-app-101.html
+
+Die wichtigsten Nachrichten im Vertikalvideo - so setzte die tagesschau-App vor dreieinhalb Jahren einen Standard. Die Weiterentwicklung steht nun in einer komplett überarbeiteten tagesschau-App 3.0 zur Verfügung.

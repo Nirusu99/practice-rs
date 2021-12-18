@@ -1,0 +1,7 @@
+Subject: Dow Jones stürzt wegen düsterer US-Konjunkturprognose ab
+From: "tagesschau" <>
+Date: Thu, 11 Jun 2020 23:23:57 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/wirtschaft/wall-street-kurseinbruch-101.html
+
+Zu Wochenbeginn war der Dow-Jones-Index noch auf den Höchststand seit Start der Corona-Pandemie geklettert - jetzt ließ eine Fed-Konjunkturprognose die Kurse abstürzen. Am Ende stand der größte Tagesverlust seit März.

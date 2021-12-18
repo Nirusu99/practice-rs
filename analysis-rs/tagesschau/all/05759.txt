@@ -1,0 +1,7 @@
+Subject: Australien führt Corona-Warn-App ein
+From: "tagesschau" <>
+Date: Sun, 26 Apr 2020 14:35:13 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/australien-corona-app-101.html
+
+Australien hat eine App zur Rückverfolgung von Kontakten Coronavirus-Infizierter gestartet. Sie soll entsprechende Informationen an die Gesundheitsbehörde weitergeben. Datenschutzbedenken hält die Regierung für unbegründet.

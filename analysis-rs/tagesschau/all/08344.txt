@@ -1,0 +1,7 @@
+Subject: Cyberangriff: Passdaten von 12.000 Deutschen im Netz
+From: "tagesschau" <>
+Date: Fri, 18 Sep 2020 05:00:03 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/investigativ/br-recherche/cyberattacke-passdaten-101.html
+
+Hacker haben Passdaten von Hunderttausenden Menschen ins Netz gestellt. Darunter sind 12.000 Deutsche. Die Daten stammen von der Einwanderungsbehörde Argentiniens. Es droht Identitätsdiebstahl. Von M. Zierer und I. Marusczyk.

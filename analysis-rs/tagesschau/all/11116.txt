@@ -1,0 +1,7 @@
+Subject: Entscheidung des BGH: Yelp darf Bewertungen aussortieren
+From: "tagesschau" <>
+Date: Tue, 14 Jan 2020 13:00:17 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/bgh-yelp-urteil-101.html
+
+Bewertungsportale im Internet wie Yelp dürfen ihre Bewertungen mit einer automatisierten Software sortieren. Das hat der BGH entschieden und stützt sich dabei auf die Berufs- und Meinungsfreiheit. Von Klaus Hempel.

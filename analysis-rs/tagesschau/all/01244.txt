@@ -1,0 +1,7 @@
+Subject: Interaktive Weltkarte mit den Coronavirus-Infektionen
+From: "tagesschau" <>
+Date: Tue,  3 Mar 2020 12:02:00 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/coronavirus-karte-101.html
+
+Das neue Coronavirus breitet sich weltweit aus. Welche Länder sind betroffen? Wo gibt es die meisten Infizierten und Todesfälle? tagesschau.de gibt einen aktuellen, interaktiven Überblick.

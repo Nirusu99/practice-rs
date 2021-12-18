@@ -1,0 +1,7 @@
+Subject: Wie sicher ist die Corona-Warn-App?
+From: "tagesschau" <>
+Date: Tue, 16 Jun 2020 03:01:03 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/corona-app-kritik-sicherheit-101.html
+
+Heute startet die offizielle deutsche Corona-Warn-App. Bei Datenschützern kommt sie gut weg. Trotzdem gibt es Kritik an ihrer Sicherheit. Vor allem die Hotline könnte ein möglicher Angriffspunkt sein. Von Dennis Horn.

@@ -1,0 +1,7 @@
+Subject: Hacker attackieren laut Microsoft erneut US-Wahlkampf
+From: "tagesschau" <>
+Date: Fri, 11 Sep 2020 03:39:07 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/ausland/hacker-us-wahlkampf-101.html
+
+Laut des Software-Riesen Microsoft nehmen Hacker aus Russland, China und Iran erneut den US-Wahlkampf ins Visier. Dabei versuchen sie offenbar vor allem, an schädigende Emails zu gelangen - das hatte schon 2016 funktioniert.

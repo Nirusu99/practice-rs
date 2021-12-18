@@ -1,0 +1,7 @@
+Subject: EuGH: Pauschale Vorratsdatenspeicherung unzulässig
+From: "tagesschau" <>
+Date: Tue,  6 Oct 2020 10:43:57 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/ausland/eugh-vorratsdatenspeicherung-101.html
+
+Um die pauschale Speicherung von Kommunikationsdaten gibt es seit Langem Streit. Ein Urteil des höchsten europäischen Gerichts bestärkt nun Datenschützer. In Ausnahmen sei die Speicherung aber rechtens.

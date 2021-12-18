@@ -1,0 +1,7 @@
+Subject: Vor BND-Urteil: So überwacht der Dienst das Internet
+From: "tagesschau" <>
+Date: Fri, 15 May 2020 11:56:41 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/br-recherche/bnd-urteil-101.html
+
+Nach Informationen von BR und "Spiegel" kann der BND offenbar auf mehr als eine Billion Internetverbindungen täglich zugreifen. Nächste Woche wird in Karlsruhe entschieden, ob die Überwachung rechtens ist.

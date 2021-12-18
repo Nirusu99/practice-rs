@@ -1,0 +1,7 @@
+Subject: Deutsche Bahn schließt Verlagerung in die Cloud ab
+From: "tagesschau" <>
+Date: Wed, 28 Oct 2020 09:39:14 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/wirtschaft/deutsche-bahn-cloud-101.html
+
+Die Deutsche Bahn schaltet alle eigenen Server ab und setzt komplett auf die Cloud. Auch die Daten des Ticket-Buchungssystems laufen damit nun über Rechenzentren der US-Konzerne Microsoft und Amazon.

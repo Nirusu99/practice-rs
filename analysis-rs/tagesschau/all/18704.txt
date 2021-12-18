@@ -1,0 +1,7 @@
+Subject: Daten von Restaurantbesuchen einsehbar
+From: "tagesschau" <>
+Date: Fri, 28 Aug 2020 05:01:48 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/investigativ/ndr/datenleck-restaurants-101.html
+
+Sicherheitslücken bei einem Dienstleister für Restaurants haben dazu geführt, dass Millionen persönliche Daten im Internet abrufbar gewesen sind. Darunter sind auch digitale Corona-Kontaktverfolgungsformulare.

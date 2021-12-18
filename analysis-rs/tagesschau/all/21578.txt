@@ -1,0 +1,7 @@
+Subject: Abkehr von Intel: Apple baut eigene Chips ein
+From: "tagesschau" <>
+Date: Wed, 11 Nov 2020 09:19:41 +0100
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/wirtschaft/apple-chips-101.html
+
+Apple hat mehrere Computer mit selbst entwickelten Chips vorgestellt. Der kalifornische Konzern will sich damit unabhängiger vom Zulieferer Intel machen - und seine Gewinne steigern.

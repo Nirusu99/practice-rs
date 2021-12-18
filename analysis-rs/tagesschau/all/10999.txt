@@ -1,0 +1,7 @@
+Subject: Mit der Blockchain gegen Corona
+From: "tagesschau" <>
+Date: Mon, 20 Apr 2020 06:30:00 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/wirtschaft/boerse/blockchain-corona-101.html
+
+Im Kampf gegen das Coronavirus bekommen viele Entwicklungen im Bereich der Digitalisierung derzeit einen Schub. Das gilt besonders für die Kontrolle von Lieferketten. Dabei wird die Blockchain-Technologie immer wichtiger.

@@ -1,0 +1,7 @@
+Subject: Jede dritte Firma laut Studie von Hacker-Angriffen betroffen
+From: "tagesschau" <>
+Date: Mon, 17 Aug 2020 11:58:39 +0200
+Content-Type: text/html; charset="utf-8"
+Link: https://www.tagesschau.de/wirtschaft/hackerangriffe-wirtschaft-unternehmen-corona-101.html
+
+Pishing-Mails, Trojaner, Viren - in den vergangenen Jahren sind Cyber-Attacken auf Deutsche Unternehmen gestiegen. Auch Mittelständler sind betroffen. Oft sitzen Komplizen der Kriminellen in der Belegschaft.

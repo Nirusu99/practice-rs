@@ -1,0 +1,7 @@
+Subject: Corona-Krise: R-Wert steigt weiter
+From: "tagesschau" <>
+Date: Sun, 10 May 2020 20:12:03 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/inland/corona-r-wert-anstieg-bedeutung-101.html
+
+Zum zweiten Mal in Folge hat die Reproduktionszahl eine kritische Grenze überschritten. Das RKI schätzt den R-Wert derzeit auf 1,13. Doch wie erklären Forscher diesen Anstieg und welche Schlüsse leiten sie ab?

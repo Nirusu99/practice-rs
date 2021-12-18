@@ -1,0 +1,7 @@
+Subject: Kritische Infrastruktur - Hacken leicht gemacht
+From: "tagesschau" <>
+Date: Tue,  7 Jul 2020 05:06:29 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/investigativ/report-mainz/hacker-infrastruktur-101.html
+
+Hacker haben Daten eines Energieversorgers in Ludwigshafen erbeutet - das Beispiel zeigt, dass kritische Infrastruktur in Deutschland oft schlecht geschützt ist. Von N. Maurer und A. Leetz.

@@ -1,0 +1,7 @@
+Subject: App gegen das Virus: Wie Singapur Handydaten nutzt
+From: "tagesschau" <>
+Date: Wed,  1 Apr 2020 12:30:09 +0200
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/ausland/corona-singapur-app-101.html
+
+Singapurs Regierung setzt im Kampf gegen die Pandemie schon jetzt auf eine App und nutzt zur Übertragung der Handydaten Bluetooth. Die Privatsphäre, behauptet die Regierung, bleibe geschützt. Von Holger Senzel.

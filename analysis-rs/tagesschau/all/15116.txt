@@ -1,0 +1,7 @@
+Subject: Der DAX stürzt ab
+From: "tagesschau" <>
+Date: Mon, 16 Mar 2020 11:16:44 +0100
+Content-Type: text/html; charset="utf-8"
+Link: http://www.tagesschau.de/wirtschaft/boerse/dax-einbruch-109.html
+
+Die Sorge vor den Folgen der Corona-Krise hat zu einem erneuten Absturz an den Börsen geführt. Der DAX fiel unter 9000 Punkte und damit auf den niedrigsten Stand seit 2016.
