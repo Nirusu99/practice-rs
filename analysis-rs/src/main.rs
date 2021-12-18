@@ -1,3 +1,4 @@
+#![feature(iter_intersperse)]
 use pbr::ProgressBar;
 use rayon::prelude::*;
 use std::collections::HashMap;
@@ -17,38 +18,56 @@ const IGNORED_WORDS: &'static [&'static str] = &[
 ];
 
 fn main() -> Result<(), Box<dyn Error>> {
+    // get path
     let mut input = String::new();
     take_input(&mut input, "Enter path of directory to evaluate: ")?;
     let path = canonicalize(&PathBuf::from(input.trim()))?;
     println!();
+
+    // read articles
     let articles = read_files(&path)?;
+
+    // compute time
     println!("\n\nComputing statistics...\n");
+
+    // first remove header from articles
     let articles: Vec<&str> = articles.par_iter().map(|s| remove_header(&s)).collect();
-    let mut split_articles = vec![];
-    articles
-        .par_iter()
-        .map(|a| article_to_words(a))
-        .collect_into_vec(&mut split_articles);
-    let word_maps = split_articles
-        .par_iter()
-        .map(|a| count_words(a))
-        .collect::<Vec<HashMap<&str, usize>>>();
+
+    // split articles into words
+    let split_articles: Vec<Vec<String>> =
+        articles.par_iter().map(|a| article_to_words(a)).collect();
+
+    // map words to occurence
+    // looks dumb, well because it is, but the task forced me to do it like that
     let mut words = HashMap::new();
-    for map in word_maps.iter() {
-        merge_with_plus(&mut words, map);
-    }
+    split_articles
+        .par_iter()
+        // map each article to a map of words and occurences
+        .map(|a| count_words(a))
+        .collect::<Vec<HashMap<&str, usize>>>()
+        .iter()
+        // merge occurences
+        .for_each(|map| merge_with_plus(&mut words, map));
+
+    // calculate most occuring words
     let top = sort_by_value(&words);
+    // check how long the word list is, might be less then 10
     let top_amount = if top.len() < 10 { top.len() } else { 10 };
+
+    // calculate the correlated words as a map of words with maps of correlations
     let mut corr: HashMap<&str, HashMap<&str, usize>> = HashMap::new();
     split_articles
         .iter()
         .for_each(|a| correlated_words(&mut corr, a));
 
+    // print out the top 10 or less occuring words
     println!("Top {top_amount} words:");
     for i in 1..(top_amount + 1) {
         let (amount, word) = top.get(top.len() - i).unwrap();
         println!("  {word} ({amount} times)");
     }
+
+    // start interaction
     take_input(&mut input, "\n> ")?;
     while input != ":quit\n" {
         let inp_word = input.trim();
@@ -66,28 +85,35 @@ fn take_input(input: &mut String, prompt: &str) -> Result<usize, std::io::Error>
     stdin().read_line(input)
 }
 
-fn compute_output(
+fn compute_output<'a>(
     corr: &HashMap<&str, HashMap<&str, usize>>,
     words: &HashMap<&str, usize>,
     inp_word: &str,
-) {
-    match corr.get(inp_word) {
-        Some(entry) => {
-            let sorted = sort_by_value(&entry);
+) -> String {
+    corr.get(inp_word).map(|e| sort_by_value(&e)).map_or_else(
+        || "Nothing found".to_string(),
+        |sorted| {
             let max = if sorted.len() < 10 { sorted.len() } else { 10 };
-            println!(
-                "The word '{}' was found {} times.",
+            let mut out = format!(
+                "The word '{}' was found {} times.\n",
                 inp_word,
                 words.get(inp_word).unwrap()
             );
-            println!("Top {max} correlations:");
-            for i in 1..(max + 1) {
-                let (amount, word) = sorted.get(sorted.len() - i).unwrap();
-                println!("  {inp_word} {word} ({amount} times)");
-            }
-        }
-        None => println!("Nothing found"),
-    };
+            out.push_str("Top {max} correlations:\n");
+            out.push_str(
+                (1..(max + 1))
+                    .into_iter()
+                    .map(|i| {
+                        let (amount, word) = sorted.get(sorted.len() - i).unwrap();
+                        format!("  {inp_word} {word} ({amount} times)")
+                    })
+                    .intersperse("\n".to_string())
+                    .collect::<String>()
+                    .as_str(),
+            );
+            out
+        },
+    )
 }
 
 fn read_files(path: &PathBuf) -> Result<Vec<String>, Box<dyn Error>> {
