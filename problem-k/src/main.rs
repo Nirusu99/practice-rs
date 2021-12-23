@@ -1,69 +1,88 @@
-use std::{collections::HashMap, error::Error, io::stdin};
+use std::cmp::Ordering;
+use std::collections::BinaryHeap;
+use std::error::Error;
+use std::io::stdin;
+
+#[derive(Debug, Eq, PartialEq, PartialOrd, Ord)]
+struct Edge {
+    node: usize,
+    cost: i64,
+}
+
+#[derive(Debug, Copy, Clone, Eq, PartialEq)]
+struct State {
+    cost: i64,
+    position: usize,
+}
+impl Ord for State {
+    fn cmp(&self, other: &Self) -> Ordering {
+        other
+            .cost
+            .cmp(&self.cost)
+            .then_with(|| self.position.cmp(&other.position))
+    }
+}
+
+impl PartialOrd for State {
+    fn partial_cmp(&self, other: &Self) -> Option<Ordering> {
+        Some(self.cmp(other))
+    }
+}
 
 fn main() -> Result<(), Box<dyn Error>> {
-    let cas = read_input(String::new())?;
-    let best = cas
-        .iter()
-        .map(|c| calc_best(c.0, &c.1))
-        .collect::<Vec<u64>>();
-    for i in 0..best.len() {
-        println!("Case #{}: {}", i + 1, best[i]);
+    let cv = read_input(String::new())?;
+    for (i, c) in cv.iter().enumerate() {
+        println!(
+            "Case #{}: {}",
+            i + 1,
+            -dijkstra_algorithm(&c, 0, c.len() - 1).unwrap()
+        );
     }
     Ok(())
 }
 
-fn calc_best(mut h: u64, v: &Vec<(u64, u64, u64)>) -> u64 {
-    let mut fun_ratios = calc_fun_ratio(v);
-    fun_ratios
-        .iter_mut()
-        // TODO: this is propably going to explode
-        .for_each(|(_, v)| v.sort_by(|a, b| b.partial_cmp(a).unwrap()));
-    let mut val: u64 = 0;
-    while h > 1 {
-        let i = best_path(h, v, &fun_ratios);
-        let b = v[i];
-        val += b.2;
-        h -= b.1 - b.0;
-    }
-    val
-}
+/// (dijkstra)[https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm]
+fn dijkstra_algorithm(m: &Vec<Vec<Edge>>, s: usize, e: usize) -> Option<i64> {
+    let mut d = vec![i64::MAX; m.len()];
+    let mut b_heap = BinaryHeap::new();
 
-fn best_path(h: u64, v: &Vec<(u64, u64, u64)>, m: &HashMap<u64, Vec<(f64, usize)>>) -> usize {
-    let poss = m.get(&h).expect("What the fuck?");
-    let best = v[poss[0].1];
-    if best.1 - best.0 == 1 {
-        return poss[0].1;
-    //} else if h > best.1 - best.0) {
-    } else {
-        let mut sh = h - 1;
-        let mut val: u64 = 0;
-        // TODO: I think this could be full recursive
-        while sh > (h - (best.1 - best.0)) {
-            let i = best_path(sh, v, m);
-            let b = v[i];
-            val += b.2;
-            sh -= b.1 - b.0;
+    d[s] = 0;
+    b_heap.push(State {
+        cost: 0,
+        position: s,
+    });
+
+    while let Some(State {
+        cost: c,
+        position: p,
+    }) = b_heap.pop()
+    {
+        if p == e {
+            return Some(c);
         }
-        if val > best.2 {
-            return best_path(sh - 1, v, m);
-        } else {
-            return poss[0].1;
+
+        if c > d[p as usize] {
+            continue;
+        }
+
+        for edge in &m[p as usize] {
+            let next = State {
+                cost: c + edge.cost,
+                position: edge.node,
+            };
+
+            if next.cost < d[next.position as usize] {
+                b_heap.push(next);
+                d[next.position] = next.cost;
+            }
         }
     }
+    None
 }
 
-fn calc_fun_ratio(v: &Vec<(u64, u64, u64)>) -> HashMap<u64, Vec<(f64, usize)>> {
-    let mut map = HashMap::new();
-    v.iter()
-        .enumerate()
-        .map(|en| (en.1 .2 as f64 / (en.1 .1 - en.1 .0) as f64, en.1 .1, en.0))
-        .for_each(|tup| map.entry(tup.1).or_insert(Vec::new()).push((tup.0, tup.2)));
-    map
-}
-
-fn read_input(mut input: String) -> Result<Vec<(u64, Vec<(u64, u64, u64)>)>, Box<dyn Error>> {
+fn read_input(mut input: String) -> Result<Vec<Vec<Vec<Edge>>>, Box<dyn Error>> {
     stdin().read_line(&mut input)?;
-    let amount = input.trim().parse::<u64>()?;
+    let amount = input.trim().parse::<i64>()?;
     input.clear();
     let mut casess = vec![];
     for _ in 0..amount {
@@ -72,25 +91,32 @@ fn read_input(mut input: String) -> Result<Vec<(u64, Vec<(u64, u64, u64)>)>, Box
         let amv = inptr
             .trim()
             .split_whitespace()
-            .map(|s| s.parse::<u64>().unwrap())
-            .collect::<Vec<u64>>();
+            .map(|s| s.trim().parse::<i64>().unwrap())
+            .collect::<Vec<i64>>();
         input.clear();
+        let mut v = vec![];
+        for _ in 0..amv[0] {
+            v.push(vec![]);
+        }
         for _ in 0..amv[1] {
             stdin().read_line(&mut input)?;
         }
-        casess.push((
-            amv[0],
-            input
-                .trim()
-                .split("\n")
-                .map(|s| {
-                    s.split_whitespace()
-                        .map(|s2| s2.parse::<u64>().unwrap())
-                        .collect::<Vec<u64>>()
+        input
+            .trim()
+            .split("\n")
+            .map(|line| {
+                line.trim()
+                    .split_whitespace()
+                    .map(|str_num| str_num.trim().parse::<i64>().unwrap())
+                    .collect::<Vec<i64>>()
+            })
+            .for_each(|num_v| {
+                v[(num_v[0] - 1) as usize].push(Edge {
+                    node: (num_v[1] - 1) as usize,
+                    cost: -num_v[2],
                 })
-                .map(|v| (v[0], v[1], v[2]))
-                .collect(),
-        ))
+            });
+        casess.push(v);
     }
     Ok(casess)
 }
