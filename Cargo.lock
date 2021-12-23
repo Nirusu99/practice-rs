@@ -125,7 +125,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "problem-b"
+version = "0.1.0"
+
+[[package]]
 name = "problem-c"
+version = "0.1.0"
+
+[[package]]
+name = "problem-d"
 version = "0.1.0"
 
 [[package]]
