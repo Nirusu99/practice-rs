@@ -41,6 +41,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
+/// don't know why this doesn't work
 /// (dijkstra)[https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm]
 fn dijkstra_algorithm(m: &Vec<Vec<Edge>>, s: usize, e: usize) -> Option<i64> {
     let mut d = vec![i64::MAX; m.len()];
