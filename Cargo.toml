@@ -5,4 +5,5 @@ members = [
     "problem-b",
     "problem-c",
     "problem-d",
+    "problem-k",
 ]
