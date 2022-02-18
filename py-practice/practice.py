@@ -212,6 +212,3 @@ def test_pyth():
     assert sorted(list(pythagorean_triples(15))) == sorted([(3, 4, 5),
                                                             (6, 8, 10),
                                                             (5, 12, 13)])
-
-
-print(list(alternate(iter("abcdef"), iter([0, 1, 2]))))
