@@ -1,5 +1,37 @@
 from dataclasses import dataclass
 from typing import Optional
+import math
+
+
+def is_prime(n: int) -> bool:
+    if n == 2:
+        return True
+    elif n < 2 or n % 2 == 0:
+        return False
+    else:
+        x = math.floor(math.sqrt(n)) + 1
+        i = 3
+        while i < x:
+            if n % i == 0:
+                return False
+            i += 2
+        return True
+
+
+def test_two():
+    assert is_prime(2)
+
+
+def test_not_two():
+    assert not is_prime(1)
+
+
+def test_prime():
+    assert is_prime(31)
+
+
+def test_not_prime():
+    assert not is_prime(35)
 
 
 @dataclass
@@ -71,3 +103,6 @@ def test_pyth():
     assert sorted(list(pythagorean_triples(15))) == sorted([(3, 4, 5),
                                                             (6, 8, 10),
                                                             (5, 12, 13)])
+
+
+print(list(alternate(iter("abcdef"), iter([0, 1, 2]))))
