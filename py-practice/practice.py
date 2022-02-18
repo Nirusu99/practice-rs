@@ -1,6 +1,115 @@
 from dataclasses import dataclass
 from typing import Optional
 import math
+from dataclasses import dataclass
+
+
+def count_iterations(n: int) -> int:
+    counter = 0
+    while n != 0:
+        if n % 3 == 0:
+            n += 4
+        elif n % 4 == 0:
+            n //= 2
+        else:
+            n -= 1
+        counter += 1
+    return counter
+
+
+def test_count():
+    assert count_iterations(5) == 4
+
+
+def cluster_by_points(points: dict[str, int]) -> dict[int, list[str]]:
+    cl: dict[int, list[str]] = {}
+    for (v, k) in points.items():
+        if (k2 := k - (k % 10)) not in cl:
+            cl[k2] = [v]
+        else:
+            cl[k2].append(v)
+    return cl
+
+
+def test_cl():
+    points = {"Line": 9, "Daniel": 12, "Charlotte": 15, "Frank": 30}
+    assert cluster_by_points(points) == {
+        0: ['Line'],
+        10: ['Daniel', 'Charlotte'],
+        30: ['Frank']
+    }
+
+
+def is_strong(pw: str) -> bool:
+    c = len(pw)
+    if c < 8:
+        return False
+    c_d = sum(1 for s in pw if s.isdigit())
+    if c_d < 1:
+        return False
+    c_s = sum(1 for s in pw if s in "!?+*")
+    if c_d <= 3 and c_s < 1:
+        return False
+    c_u = sum(1 for s in pw if s.isupper())
+    if c_u < 3 and c_s < 1:
+        return False
+    if c_u < 3 and c_d <= 3 and c_s < 2:
+        return False
+    return True
+
+
+@dataclass
+class Ranking:
+    club: str
+    wins: int
+    draws: int
+    losses: int
+    goals_archived: int
+    goals_conceded: int
+
+    def points(self) -> int:
+        return self.wins * 3 + self.draws
+
+    def diff(self) -> int:
+        return self.goals_archived - self.goals_conceded
+
+    def games(self) -> int:
+        return self.wins + self.draws + self.losses
+
+    def table_entry(self) -> str:
+        return " ".join([
+            str(self.club),
+            str(self.games()),
+            str(self.wins),
+            str(self.draws),
+            str(self.losses), f"{self.goals_archived}:{self.goals_conceded}",
+            str(self.diff()),
+            str(self.points())
+        ])
+
+    def __lt__(self, o) -> bool:
+        if type(o) is not Ranking:
+            return False
+        if self.points() < o.points():
+            return True
+        elif self.points() == o.points():
+            if self.diff() < o.diff():
+                return True
+            elif self.diff() == o.diff():
+                return self.goals_archived < o.goals_archived
+        return False
+
+
+def test_str():
+    assert Ranking("FC H.", 6, 2, 2, 23,
+                   14).table_entry() == "FC H. 10 6 2 2 23:14 9 20"
+
+
+def test_ls():
+    r1 = Ranking("FC H.", 6, 2, 2, 23, 14)
+    r2 = Ranking("FC U.", 5, 3, 2, 20, 15)
+    assert r2 < r1
+    assert not (r1 < r1)
 
 
 def is_prime(n: int) -> bool:
