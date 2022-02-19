@@ -1,0 +1,29 @@
+1. [6 Punkte] Schreiben Sie eine Funktion `compose`
+die zwei Funktionen `f` und `g` als Argumente nimmt
+und eine Funktion zurückgibt die ein Argument `x` nimmt
+und `f(g(x))` berechnet.
+
+Beispiel:
+[code]
+>>> def f(x):
+>>>    return x + 1
+>>> def g(x):
+>>>    return x * 2
+>>> compose(f, g)(5)
+11
+[/code]
+
+2. [6 Punkte] Schreiben Sie eine Funktion `factor_pairs`
+die eine ganze Zahl `n` mit `n >= 0` als Argument nimmt
+und eine Liste aller Paare `(x,y)` zurückgibt,
+sodass `x * y = n` gilt. Verwenden Sie hierzu genau
+eine List-Comprehension.
+
+Beispiel:
+[code]
+>>> factor_pairs(6)
+[(1,6), (2,3), (3,2), (6,1)]
+[/code]
+
+3. [2 Punkte] Schreiben Sie jeweils einen sinnvollen
+Unittest für `compose` und `factor_pairs`.

@@ -1,0 +1,20 @@
+In dieser Aufgabe wird ein geometrisches Rechteck durch eine Klasse beschrieben.
+
+1. [6 Punkte] Schreiben Sie eine Klasse `Rect`,
+welche mit den ganzzahligen Koordinaten x1, y1, x2 und y2
+(in dieser Reihenfolge) initialisiert wird und
+diese als Attribute setzt.  Dabei beschreibt x1 und y1 den
+Punkt unten-links und x2 und y2 den Punkt oben-rechts;
+sie können also annehmen, dass x1 < x2 und y1 < y2 gilt.
+
+2. [6 Punkte] Implementieren Sie die magische Methode `__eq__`
+zum Testen auf Gleichheit mit einem anderen Rechteck `other`.
+
+3. [6 Punkte] Implementieren Sie eine Funktion `merge`,
+welche zwei Rechtecke `r1` und `r2` als Argumente nimmt,
+diese in einem neuen Rechteck vereint und dieses zurückgibt.
+Das neue Rechteck soll dabei die minimale Ausdehnung haben,
+sodass es `r1` und `r2` vollständig enthält.
+
+4. [2 Punkte] Schreiben Sie jeweils einen sinnvollen
+Unittest für `__eq__` und `merge`.

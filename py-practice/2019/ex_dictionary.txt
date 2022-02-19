@@ -1,0 +1,17 @@
+1. [8 Punkte] Schreiben Sie eine Funktion `word_counts` die einen String `s` als Argument nimmt und ein Dictionary zurückgibt, welches zählt wie oft jedes Wort in `s` vorkommt.
+
+Beispiel:
+[code]
+>>> word_counts("This sentence is a sentence")
+{ "This": 1, "sentence": 2, "is": 1, "a": 1 }
+[/code]
+
+Ein Wort ist hier definiert als eine Folge von beliebigen Zeichen die kein Leerzeichen sind.
+
+Die `string.split` methode kann wie folgt benutzt werden um die Worte eines Strings zu berechnen:
+[code]
+>>> "This sentence is a sentence".split(" ")
+["This", "sentence", "is", "a", "sentence"]
+[/code]
+
+2. [2 Punkte] Schreiben sie einen sinnvollen Unittest für `word_counts`

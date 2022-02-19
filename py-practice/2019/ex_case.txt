@@ -1,0 +1,24 @@
+In der Vorlesung wurde die *snake-case* Konvention zur Benennung
+von Funktionen (z.B. `my_fancy_function`).
+Eine Alternative dazu ist die *lower camel-case*
+Konvention (z.B. `myFancyFunction`).
+
+1. [5 Punkte] Schreiben Sie eine Funktion `to_snake`,
+welche einen String `s` als Argument nimmt,
+diesen von der lower camel-case Konvention
+in die snake-case Konvention umwandelt
+und dann zurückgibt.
+
+2. [8 Punkte]  Schreiben Sie eine Funktion `to_camel`, welche einen String `s` als Argument nimmt,
+diesen von der snake-case Konvention in die lower camel-case Konvention umwandelt
+und dann zurückgibt.
+
+3. [4 Punkte] Schreiben Sie jeweils einen sinnvollen Unittest für `to_snake` und `to_camel`.
+
+Hinweis: Verwenden Sie die String-Methoden `isupper`, `lower` und `upper`.
+
+Beispiel:
+[code]
+>>> ('c'.isupper(), 'C'.isupper(), 'C'.lower(), 'c'.upper())
+(False, True, 'c', 'C')
+[/code]

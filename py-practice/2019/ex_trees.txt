@@ -1,0 +1,47 @@
+In dieser Aufgabe sollen Sie folgende Baumimplementierung erweitern:
+[code]
+class Tree:
+    def __init__(self, mark, children: list):
+        self.mark = mark
+        self.children = children
+[/code]
+Ein `Tree` hat dabei eine Markierung
+`mark` und eine Liste von Teilbäumen
+`children`.
+
+Beispiel:
+[code]
+>>> t = Tree(0, [
+            Tree(1, []),
+            Tree(2, [
+                Tree(3, []),
+                Tree(4, []),
+                Tree(5, [])
+            ])
+        ])
+[/code]
+
+1. [8 Punkte] Implementieren Sie die Methode `marks`,
+welche eine Liste aller Markierungen des Baumes zurückgibt.
+Verwenden Sie hierzu die *pre-order* Reihenfolge.
+
+2. [8 Punkte] Implementieren Sie die Methode `map`,
+welche eine Funktion `f` als Argument nimmt, `f` auf
+jede Markierung des Baumes anwendet und das Ergebnis als
+neuen Baum mit gleicher Struktur zurückgibt.
+Der ursprüngliche Baum darf dabei nicht verändert werden.
+
+Beispiel:
+[code]
+>>> t.map(lambda x: x * 2)
+Tree(0, [
+    Tree(2, []),
+    Tree(4, [
+        Tree(6, []),
+        Tree(8, []),
+        Tree(10, [])
+    ])
+])
+[/code]
+
+3. [4 Punkte] Schreiben Sie jeweils einen sinnvollen Unittest für `marks` und `map`.

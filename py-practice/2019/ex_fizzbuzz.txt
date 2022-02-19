@@ -1,0 +1,7 @@
+1. [5 Punkte] Implementieren Sie eine Funktion `fizzbuzz`, die eine ganze Zahl `n` als Argument nimmt und
+* `"fizzbuzz"` zurückgibt, falls `n` durch 3 und 5 teilbar ist;
+* `"fizz"` zurückgibt, falls `n` durch 3 und nicht durch 5 teilbar ist;
+* `"buzz"` zurückgibt, falls `n` durch 5 und nicht durch 3 teilbar ist;
+* eine Stringrepräsentation von `n` zurückgibt, in allen anderen Fällen.
+
+2. [8 Punkte] Implementieren Sie Unittests für `fizzbuzz`, die volle Codecoverage erreichen, d.h. alle Ausführungspfade von `fizzbuzz` abdecken.
