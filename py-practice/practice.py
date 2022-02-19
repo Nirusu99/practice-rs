@@ -205,7 +205,7 @@ def test_twice():
 
 def pythagorean_triples(n: int):
     return [(a, b, c) for a in range(1, n) for b in range(1, n)
-            for c in range(1, n) if a**2 + b**2 == c**2 and a <= b]
+            for c in range(1, n) if a**2 + b**2 == c**2 and a < b]
 
 
 def test_pyth():
