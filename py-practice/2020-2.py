@@ -58,7 +58,6 @@ class Robot:
         hp_o = other.hp
         while (hp_o > 0):
             if hp_s < 1:
-
                 return False
             hp_o -= self.hit_damage(other)
             hp_s -= other.hit_damage(self)
