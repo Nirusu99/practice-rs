@@ -132,7 +132,7 @@ def test_paired():
     assert paired(lambda x: x * 2, lambda x: x * 3)(5, 10) == (10, 30)
 
 def is_prime(n: int) -> bool:
-    return not (any( [x for x in iter(range(2, n)) if n % x == 0]) or n < 2)
+    return not (any( [x for x in iter(range(2, n)) if n % x == 0] ) or n < 2)
 
 def test_prime():
     assert not is_prime(0)
