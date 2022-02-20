@@ -167,9 +167,8 @@ def test_subs():
 
 
 def my_enumerate(s: str):
-    for (i, c) in enumerate(s):
-        yield (i, c)
-
+    for i in range(len(s)):
+        yield (i, s[i])
 
 def prefixes(ls: list[int]):
     ls_n: list[int] = []
