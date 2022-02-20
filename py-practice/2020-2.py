@@ -116,9 +116,12 @@ T = TypeVar('T')
 def init(xs: Iterator[T]) -> Iterator[T]:
     t: Optional[T] = next(xs, None)
     while (i0 := next(xs, None)) is not None:
+        # invarianz
         assert t is not None
         yield t
         t = i0
+        # invarianz
+        assert t is not None
 
 def test_init():
     assert list(init(iter([1, 2, 3, 4]))) == [1, 2, 3]
