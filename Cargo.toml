@@ -7,4 +7,6 @@ members = [
     "problem-d",
     "problem-k",
     "generate_test",
+    "uwu-rs",
+
 ]
